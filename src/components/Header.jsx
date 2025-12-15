@@ -6,7 +6,7 @@ import logo from "../assets/images/logo.jpg";
 
 const Header = () => {
   return (
-    <div className="flex justify-between shadow-lg px-7">
+    <div className="flex justify-between shadow-lg px-7 mb-5">
       {/* left section */}
       <div className="">
         <img className="w-20! rounded-4xl " src={logo} alt="" />
